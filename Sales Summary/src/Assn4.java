@@ -3,7 +3,7 @@
  */
 
 
-// Import the necessary packages for the Assn4 class
+// Import the necessary packages for the class
 import java.io.File;
 import java.text.NumberFormat;
 import java.util.Scanner;
